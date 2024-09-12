@@ -1,7 +1,4 @@
-{
-    "verilog.runInTerminal": true
-    
-}
+
 module dsdsddsdd(a, b, d);
     input [15:0] a;
     input [15:0] b;
